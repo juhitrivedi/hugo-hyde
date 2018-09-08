@@ -1,6 +1,8 @@
 baseURL = "https://musing-lewin-65ce92.netlify.com/"
 languageCode = "en-us"
 title = "My First Site"
+theme = "hyde"
 
 [params]
 	description= "My first attempt in building a site using HUGO & Netlify."
+	themeColor = "theme-base-09"
