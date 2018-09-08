@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My First Site"
+
+[params]
+	description= "My first attempt in building a site using HUGO & Netlify."
