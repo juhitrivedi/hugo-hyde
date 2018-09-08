@@ -1,4 +1,4 @@
-baseURL = "https://musing-lewin-65ce92.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "My First Site"
 theme = "hyde"
